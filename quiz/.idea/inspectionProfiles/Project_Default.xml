@@ -1,0 +1,103 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="%}" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+          <option value="N812" />
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="dir" />
+          <option value="format" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="uptask.upvideodata.models.Movieinfo.*" />
+          <option value="uptask.upvideo.models.Video.objects" />
+          <option value="uptask.upvideo.models.Video.DoesNotExist" />
+          <option value="uptask.upvideo.models.Movieinfo.objects" />
+          <option value="uptask.upvideo.models.Downloads.objects" />
+          <option value="uptask.upvideo.models.Companies.objects" />
+          <option value="eventpanel.models.Userinfo.objects" />
+          <option value="eventpanel.models.Events.objects" />
+          <option value="eventpanel.models.EventPart.objects" />
+          <option value="eventpanel.models.EventAssigniees.objects" />
+          <option value="eventpanel.models.Movieinfo.objects" />
+          <option value="movie.models.Userinfo.objects" />
+          <option value="movie.models.ArtistDetail.objects" />
+          <option value="movie.models.Relative.objects" />
+          <option value="movie.models.SocialAccount.objects" />
+          <option value="eventpanel.models.EventTitle.objects" />
+          <option value="movie.models.ArtistDetail.objcets" />
+          <option value="movie.models.Relative.objcets" />
+          <option value="movie.models.SocialAccount.objcets" />
+          <option value="eventAPI.models.Events.objects" />
+          <option value="eventAPI.models.EventPart.objects" />
+          <option value="eventAPI.models.EventAssigniees.objects" />
+          <option value="eventAPI.models.Movieinfo.objects" />
+          <option value="eventAPI.models.Userinfo.objects" />
+          <option value="eventAPI.models.Professions.objects" />
+          <option value="eventAPI.models.Casts.objects" />
+          <option value="eventAPI.models.EventTitle.objects" />
+          <option value="eventAPI.models.News.objects" />
+          <option value="Api.event.models.MovieImage.objects" />
+          <option value="Api.event.models.EventTitle.objects" />
+          <option value="Api.event.models.Tags.objects" />
+          <option value="Api.event.models.TagAssignees.objects" />
+          <option value="Api.event.models.EventAssigniees.objects" />
+          <option value="Api.event.models.Movieinfo.objects" />
+          <option value="Api.event.models.Photos.objects" />
+          <option value="video_admin.models.Userinfo.objects" />
+          <option value="video_admin.models.Events.objects" />
+          <option value="video_admin.models.VideoAssignees.objects" />
+          <option value="video_admin.models.MovieTizer.objects" />
+          <option value="video_admin.models.EventTitle.objects" />
+          <option value="Api.event.models.Events.objects" />
+          <option value="Api.critic.models.Movieinfo.objects" />
+          <option value="Api.critic.models.Casts.objects" />
+          <option value="Api.critic.models.Movieinfo.DoseNotExist" />
+          <option value="Api.critic.models.ShortCritic.objects" />
+          <option value="Api.critic.models.Longcritic.objects" />
+          <option value="Api.critic.models.MovieGenres.objects" />
+          <option value="Api.critic.models.Genres.objects" />
+          <option value="Api.critic.models.Userinfo.objects" />
+          <option value="Api.critic.models.Professions.objects" />
+          <option value="uptask.convert.models.Video.objects" />
+          <option value="uptask.convert.models.Movieinfo.objects" />
+          <option value="uptask.convert.models.DownloadItems.objects" />
+          <option value="uptask.convert.models.Downloads.objects" />
+          <option value="panel.movie.models.Userinfo.objects" />
+          <option value="panel.movie.models.Userinfo.DoseNotExist" />
+          <option value="uptask.convert.models.Downloads.DoesNotExist" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
